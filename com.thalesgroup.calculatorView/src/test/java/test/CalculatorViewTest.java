@@ -24,6 +24,6 @@ public class CalculatorViewTest {
 	  
 	  @Test
 	  public void test2() {
-	    Assert.assertNull(5);
+	    Assert.assertNull(null);
 	  }
 }
