@@ -6,7 +6,7 @@
     <groupId>com.thalesgroup.calculator</groupId>
     <artifactId>calculator</artifactId>
     <packaging>pom</packaging>
-    <version>1.0</version>
+    <version>1</version>
     
     <build>
         <defaultGoal>package</defaultGoal>
